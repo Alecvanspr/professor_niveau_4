@@ -1,0 +1,107 @@
+{
+  "name": "Professor Niveaukader",
+  "version": "2026.1",
+  "description": "Niveaukader met competenties en niveaubeschrijvingen zoals aangeleverd door gebruiker.",
+  "skills": [
+    {
+      "name": "Juiste kennis ontwikkelen",
+      "description": "Ontwikkelen en toepassen van relevante kennis.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student bepaalt welke kennis noodzakelijk is voor een product of taak, stelt learning stories/tasks met leerdoelen op, toont gebruikte bronnen, maakt kennis eigen, past deze toe en draagt deze over aan peers."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student kijkt naar gangbare en toepasselijke kennis en technieken in het beroepenveld, maakt deze zich eigen, deelt kennis aan experts en gaat om met tegenstrijdigheden in bronnen."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student maakt kennis eigen uit bronnen die niet direct voor leren zijn ontwikkeld of kijkt naar nieuwe, complexe en/of uitdagende kennis en technieken in het beroepenveld."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student maakt kennis eigen uit bronnen die niet direct voor leren zijn ontwikkeld en kijkt naar nieuwe, complexe en/of uitdagende kennis en technieken in het beroepenveld."}
+      ]
+    },
+    {
+      "name": "Kwalitatief product maken",
+      "description": "Maken van beroepsproducten met kwaliteitsborging.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student maakt beroepsproducten passend bij de beroepstaak op taakgericht niveau en gebruikt acceptatie- en kwaliteitscriteria aantoonbaar in/op producten."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Student maakt beroepsproducten op probleemgericht niveau, past criteria aantoonbaar toe en borgt samenhang tussen enkele relevante producten en context."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Student maakt beroepsproducten op situatiegericht niveau, past criteria aantoonbaar toe en borgt samenhang tussen alle relevante producten en context."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Student maakt beroepsproducten op professiegericht niveau, past criteria aantoonbaar toe en borgt samenhang tussen alle relevante producten en context."}
+      ]
+    },
+    {
+      "name": "Overzicht creëren",
+      "description": "Onderzoekend informatie verzamelen, structureren en criteria opstellen.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student stelt vragen, verzamelt informatie uit bronnen/experimenten, geeft overzichtelijk weer, formuleert acceptatie/kwaliteits/selectiecriteria en houdt waar mogelijk rekening met toegankelijkheid en/of gegevensbescherming."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student verkrijgt methodisch informatie op cruciale vraagstellingen via research stories/tasks, neemt waarden van directe stakeholders mee, kiest en voert passende onderzoeksmethoden vakkundig uit, houdt waar mogelijk rekening met duurzaamheid, overdraagbaarheid, inclusiviteit en/of security en onderbouwt passende grondigheid."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student neemt waarden van indirecte stakeholders, SDGs en/of wetenschap mee en houdt waar mogelijk rekening met schaalbaarheid, onderhoudbaarheid en/of ethiek."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student neemt waarden uit wetenschappelijke standaarden, beroepenveld, maatschappij en gekozen bedrijfsstrategie mee."}
+      ]
+    },
+    {
+      "name": "Kritisch oordelen",
+      "description": "Kritisch verwerken van informatie en onderbouwde conclusies trekken.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student verwerkt verkregen informatie en trekt conclusies op basis van vooraf opgestelde acceptatie-, kwaliteits- en/of selectiecriteria."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student verkrijgt/verwerkt methodisch informatie via research stories/tasks, trekt onderbouwde conclusies, kiest en voert passende onderzoeksmethoden vakkundig uit, stelt gangbare normen/praktijken/meningen ter discussie en onderbouwt passende grondigheid."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student is kritisch op opdracht, opdrachtrichting en oplossingsruimte met aandacht voor de vraag achter de vraag en daagt gangbare normen, praktijken en meningen uit."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student draagt bij aan nieuwe gangbare normen/praktijken/meningen, laat zien dat conclusies tot nieuwe inzichten voor het beroepenveld leiden en evalueert kritisch resultaten voor andere situaties en/of methodologische grondigheid."}
+      ]
+    },
+    {
+      "name": "Samenwerken",
+      "description": "Professioneel samenwerken met team en stakeholders.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student zoekt samenwerking met teamleden en begeleiding, draagt bij aan resultaat en werksfeer, stemt plannen af, bewaakt taakverdeling, maakt conflicten bespreekbaar, doet peerreviews en helpt peers."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student zoekt samenwerking met direct betrokkenen buiten team of indirect betrokkenen binnen opleiding, communiceert professioneel, houdt betrokkenen op de hoogte en stelt zich coöperatief en respectvol op."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student zoekt samenwerking met indirect betrokkenen buiten de opleiding, communiceert professioneel, neemt belangen/waarden van alle betrokkenen mee en helpt anderen zich te ontwikkelen."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student zet strategische samenwerkingen op zodat relevante partijen passend betrokken worden met rekening voor hun belangen en waarden."}
+      ]
+    },
+    {
+      "name": "Boodschap delen",
+      "description": "Doelgericht communiceren met verschillende doelgroepen.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student brengt boodschappen over via documenten/presentaties/besprekingen, kiest passende structuur, reageert passend op feedback en vragen en toont passende kwaliteit van gebruikte producten."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student sluit aan bij kennis/context van doelgroep in woordkeuze/middelen/taalgebruik, luistert actief, vraagt door, geeft opbouwende feedback en ontvangt feedback."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student overtuigt betrokkenen om draagvlak te vergroten met aandacht voor context en maakt onderscheid tussen feiten en meningen."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student gebruikt meningen en feiten van anderen in onderbouwing en draagt bredere boodschap uit die verder gaat dan eigen ideeën, ook wanneer niet in lijn met eigen visie."}
+      ]
+    },
+    {
+      "name": "Plannen",
+      "description": "Plannen op korte, middellange en lange termijn.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student maakt kortetermijnplanning, ordent taken logisch, houdt zich eraan, communiceert/verantwoordt verstoringen en neemt inzicht in eigen capaciteit mee naar toekomstige planningen."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student toont inzicht in teamcapaciteit, maakt middellangetermijnplanning met team en vertaalt die naar eigen kortetermijnplanning."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student maakt of past langetermijnplanning met team aan, rekening houdend met teamcapaciteit en beschikbaarheid van direct betrokkenen."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student vertaalt bedrijfsstrategie en visie naar langetermijn-/meerjarenplanning, past waar nodig aan en houdt rekening met capaciteit en wensen van direct/indirect betrokkenen."}
+      ]
+    },
+    {
+      "name": "Flexibel opstellen",
+      "description": "Aanpassingsvermogen binnen team, context en strategie.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student houdt zich aan gekozen werkwijze binnen team en school en stelt zich meewerkend op bij lastige keuzes, onverwachte situaties en tegenslagen."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student houdt zich aan werkwijze binnen team, school en opdrachtgever, stapt over aannames/vooroordelen/eigen gemakken heen of stelt deze ter discussie en houdt rekening met duurzaamheid en diversiteit."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student is zich bewust van bedrijfsstrategie, past eigen werkwijze daarop aan en kan omgaan met concurrerende doelen."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student houdt zich aan gekozen bedrijfsstrategie en draagt bij aan bijstelling op basis van conflicterende belangen van direct en indirect betrokkenen."}
+      ]
+    },
+    {
+      "name": "Pro-actief handelen",
+      "description": "Initiatief nemen voor kansen en problemen op verschillende termijnen.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student ziet kansen/problemen op korte termijn, neemt tijdig initiatief voor ontwikkeling van zichzelf en team of voor preventie/oplossing, en toont effect van initiatief aan."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Student ziet kansen/problemen op middellange termijn, neemt tijdig initiatief voor ontwikkeling van zichzelf, team en opdrachtgever en toont effect van initiatief aan."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Student ziet kansen/problemen op lange termijn, neemt tijdig initiatief voor ontwikkeling van direct betrokkenen en toont effect aan."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Student ziet kansen/problemen op lange termijn voor direct en indirect betrokkenen, neemt tijdig initiatief, toont effect en activeert anderen om kansen te pakken en problemen te voorkomen/oplossen."}
+      ]
+    },
+    {
+      "name": "Reflecteren",
+      "description": "Reflecteren op gedrag, feedback en ontwikkeling in context.",
+      "levels": [
+        {"level_index": 1, "title": "Taakgericht", "descriptor": "Student haalt feedback op, reflecteert op wat goed gaat en beter kan, stelt ontwikkeldoelen met actiepunten op en herkent hoe eigen gedrag zich verhoudt tot gangbare normen/praktijken/meningen."},
+        {"level_index": 2, "title": "Probleemgericht", "descriptor": "Niveau 1 plus: student waardeert feedback en laat zien hoe die wordt meegenomen, beoordeelt effectiviteit van eerdere acties en herkent impact van perspectieven en gedrag van zichzelf en anderen op teamfunctioneren."},
+        {"level_index": 3, "title": "Situatiegericht", "descriptor": "Niveau 2 plus: student onderzoekt diepere oorzaken van positief/negatief gedragseffect op functioneren van zichzelf en anderen en betrekt bijdrage van student en team aan uitvoering van bedrijfsstrategie."},
+        {"level_index": 4, "title": "Professiegericht", "descriptor": "Niveau 3 plus: student reflecteert op bijdrage van student en team aan bepalen/uitvoeren van bedrijfsstrategie, onderzoekt omgevingsimpact op functioneren en stelt eigen gedrag bij."}
+      ]
+    }
+  ]
+}
