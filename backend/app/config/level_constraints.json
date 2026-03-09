@@ -1,0 +1,41 @@
+{
+  "default": {
+    "1": {
+      "must_have": [
+        "Basale structuur of opbouw",
+        "Minimale inhoudelijke relevantie"
+      ],
+      "must_not_have": [
+        "Volledig afwezige kernboodschap"
+      ]
+    },
+    "2": {
+      "must_have": [
+        "Duidelijke inleiding, kern en afsluiting",
+        "Beperkte maar zichtbare onderbouwing"
+      ],
+      "must_not_have": [
+        "Inhoudelijke tegenstrijdigheden zonder toelichting"
+      ]
+    },
+    "3": {
+      "must_have": [
+        "Consistente argumentatielijn",
+        "Concreet bewijs of voorbeelden",
+        "Reflectie op keuzes"
+      ],
+      "must_not_have": [
+        "Generieke claims zonder onderbouwing"
+      ]
+    },
+    "4": {
+      "must_have": [
+        "Strategische diepgang en transfer naar nieuwe context",
+        "Meetbare resultaten en evaluatie"
+      ],
+      "must_not_have": [
+        "Niet-verifieerbare conclusies"
+      ]
+    }
+  }
+}
