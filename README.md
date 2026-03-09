@@ -50,3 +50,15 @@ Open daarna `http://localhost:5173`.
   - UI: knop **Laad professor niveaukader** op `/admin/frameworks`
   - API: `POST /api/frameworks/seed/professor`
 - Restricties per niveau (must-have / must-not-have) blijven beheerbaar in `backend/app/config/level_constraints.json`.
+
+
+### Troubleshooting PDF
+Als je bij upload de melding krijgt dat `pypdf` ontbreekt, installeer dan backend dependencies opnieuw:
+```bash
+cd backend
+pip install -r requirements.txt
+```
+Of minimaal:
+```bash
+pip install pypdf
+```

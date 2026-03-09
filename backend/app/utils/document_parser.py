@@ -15,7 +15,14 @@ def _extract_pdf_text(data: bytes) -> str:
     try:
         from pypdf import PdfReader
     except ImportError as exc:
-        raise HTTPException(status_code=500, detail='PDF-ondersteuning vereist pypdf. Installeer dependencies opnieuw.') from exc
+        raise HTTPException(
+            status_code=400,
+            detail=(
+                'PDF-upload is geconfigureerd, maar de server mist pypdf. '
+                'Installeer backend dependencies met: pip install -r backend/requirements.txt '
+                'of minimaal: pip install pypdf'
+            ),
+        ) from exc
 
     reader = PdfReader(io.BytesIO(data))
     parts: list[str] = []
